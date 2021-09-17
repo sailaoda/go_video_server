@@ -1,23 +1,4 @@
----
-title: go语言实战流媒体视频网站笔记1：要点介绍
-cover:     img/cover/goliu.jpg
-tags:
-  - - golang实战
-categories:
-  - - golang
-    - go语言实战流媒体视频网站
-abstract: '有东西被加密了, 请输入密码查看.'
-message: '您好, 这里需要密码.'
-wrong_pass_message: '抱歉, 这个密码看着不太对, 请再试试.'
-wrong_hash_message: '抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.'
-date: 2021-09-14 23:44:12
-keywords:
-description:
-sticky:
-password:
-swiper_index:
----
-
+#go语言实战流媒体视频网站笔记1：要点介绍
 
 
 # 为什么选择golang

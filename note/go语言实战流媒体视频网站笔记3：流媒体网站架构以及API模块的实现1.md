@@ -1,25 +1,4 @@
----
-title: go语言实战流媒体视频网站笔记3：流媒体网站架构以及API模块的实现1
-cover:  /img/cover/goliu.jpg
-tags:
-  - - golang实战
-categories:
-  - - golang
-    - go语言实战流媒体视频网站
-abstract: '有东西被加密了, 请输入密码查看.'
-message: '您好, 这里需要密码.'
-wrong_pass_message: '抱歉, 这个密码看着不太对, 请再试试.'
-wrong_hash_message: '抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.'
-date: 2021-09-16 14:22:48
-keywords:
-description:  本章通过实战演练，从网站的整体架构设计，到服务划分，数据库设计，到api模块的实现，全面讲述golang对webservice的实现以及代码分层架构的思想，同时辅以test cases的全程编写与指导，全面了解工程化golang项目的实现。
-sticky: 
-password:
-swiper_index: 4
----
-
-
-
+# go语言实战流媒体视频网站笔记3：流媒体网站架构以及API模块的实现1
 
 
 # 流媒体点播网站
