@@ -23,6 +23,6 @@ func main() {
 }
 
 //main 函数里面放一些比较简单的定义型的东西，把逻辑处理的放到别的文件里面。
-//http分层的处理方式 结构
+//http分层的处理方式 结
 
 //handler -> validation{1.request,2.user} -> business logic -> response .
