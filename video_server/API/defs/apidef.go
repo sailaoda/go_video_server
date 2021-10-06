@@ -1,9 +1,9 @@
 package defs
 
 //requsets
-type UserCreadential struct{
-	Username string 'json:"user_name"'
-	Pwd string 'json:"pwd"'
+type UserCreadential struct {
+	Username string `json:"user_name"`
+	Pwd      string `json:"pwd"`
 }
 
 //Go里面的原生方法处理json的一种方式
@@ -13,8 +13,3 @@ type UserCreadential struct{
 //	user_name: xxx,
 //	pwd: xxx
 //}
-
-
-
-
-
